@@ -1,0 +1,69 @@
+body
+{
+	margin:0;
+	background-color:#000000;
+	background: url('images/fon.jpg') no-repeat;
+	background-size: 100% 100%;
+	background-position-y:top;
+}
+
+div.main
+	{
+		background-color:#000000;
+		background: url('images/fon2.jpg') no-repeat;	
+		font-face:"Verdana";				
+		Font-size:17px; 				
+		color:#f5f5dc;
+		width: 1270px;
+		height: 890px;
+		margin-top:0%;
+		margin-left:16.5%;
+		border-radius:200px;
+	}	
+
+div.header
+	{		
+		color:#7fffd4;		
+		height:100px;				
+		width:1240px;						
+		font-face:Times New Roman;				
+		font-size:65px;				
+	}	
+
+div.leftMenu							
+	{
+		height:280px;
+		width:292px;							
+		background: scroll url('images/menu3.jpg') no-repeat;
+		margin-top:68px;
+		margin-left:258px;	
+		color: #fc0;
+		font-family: Arial, sans-serif;
+		font-size: 30px;
+		padding-top:15px;		
+	}
+
+div.textPart					
+	{
+		color: #7fffd4;
+		padding: 10px;
+		height:520px;
+		width:430px;						
+		margin-top:-295px;
+		margin-left:587px;
+		background: scroll url('images/menu4.jpg') no-repeat;
+	}
+
+div.time
+	{
+		padding: 20px 0px 0px 0px;
+		height:73px;
+		width:430px;
+		background: scroll url('images/time.jpg') no-repeat;
+		margin-top:-175px;
+		margin-left:115px;
+		font-family: fantasy;
+		font-style: oblique;
+		font-size: 23;
+		border-radius: 50px;
+	}
